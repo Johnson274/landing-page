@@ -5,8 +5,9 @@ body {font-family: robot, sans-serif;}
          justify-content: space-between;}
 
 ul {display: flex;
-    list-style-type: none;
-    text-decoration: none;}
+    list-style-type: none;}
 
 button {background-color: #3882F6;
         color: white;}
+
+a {text-decoration: none;}
