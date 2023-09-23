@@ -1,9 +1,12 @@
 body {font-family: robot, sans-serif;}
 
 
-.header {display: flex;}
+.header {display: flex;
+         justify-content: space-between;}
 
-ul {display: flex;}
+ul {display: flex;
+    list-style-type: none;
+    text-decoration: none;}
 
 button {background-color: #3882F6;
         color: white;}
