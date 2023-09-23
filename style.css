@@ -4,3 +4,6 @@ body {font-family: robot, sans-serif;}
 .header {display: flex;}
 
 ul {display: flex;}
+
+button {background-color: #3882F6;
+        color: white;}
