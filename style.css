@@ -2,7 +2,8 @@ body {font-family: robot, sans-serif;}
 
 
 .header {display: flex;
-         justify-content: space-between;}
+         justify-content: space-between;
+        background-color: #1F2937;}
 
 ul {display: flex;
     list-style-type: none;}
@@ -10,4 +11,5 @@ ul {display: flex;
 button {background-color: #3882F6;
         color: white;}
 
-a {text-decoration: none;}
+a {text-decoration: none;
+   color: white;}
