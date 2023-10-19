@@ -1,3 +1,9 @@
+*{
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+}
+
 body {font-family: robot, sans-serif;}
 
 
@@ -19,17 +25,28 @@ a {text-decoration: none;
 .logo {color: #F9FAF8;
        font-size: 24px;} 
 
-.main {color: #f9faf8;
+.hero-main {color: #f9faf8;
        font-size:48px;
        font-weight: 800;
        padding: 0px;
        margin: 0px;}
 
-.second {color: #E5E7EB;
+.hero-second {color: #E5E7EB;
          font-size: 18px;
          margin: 0px;
          padding: 0px;}
 
-.container {background-color: #1F2937;}
+.nav-bar {background-color: #1F2937;
+       display: flex;
+       justify-content: space-between;}
 
-.container2
+
+.hero-container {display: flex;
+                 flex-direction: row-reverse;
+              background-color: #1F2937;
+              align-items: center;
+              justify-content: center;}
+
+.htext-container {display: flex;
+                  flex-direction: column;
+                  align-items: flex-start;} 
