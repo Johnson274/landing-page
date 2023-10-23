@@ -53,3 +53,6 @@ a {text-decoration: none;
 h1 {font-size: 36px;
     font-weight: 800;
     color: #1F2937;} 
+
+    .gen-cont {display: flex;
+               justify-content: space-evenly;}
