@@ -56,3 +56,5 @@ h1 {font-size: 36px;
 
     .gen-cont {display: flex;
                justify-content: space-evenly;}
+    
+    .gen-image {border: 5px solid #3882F6}
