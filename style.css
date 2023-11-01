@@ -65,3 +65,7 @@ h1 {font-size: 36px;
                justify-content: space-evenly;}   
 
 .qa-cont{background-color: #E5E7EB;}
+
+.quote {font-style: italic;
+        font-size: 36px;
+        color: #1F2937;}
