@@ -72,3 +72,6 @@ h1 {font-size: 36px;
 .b-cont {background-color:#3882F6;
          width: 1000px;
          height: 100px;}
+
+.b2-cont {display: flex;
+          justify-content: center;}
