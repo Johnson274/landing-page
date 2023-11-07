@@ -69,4 +69,6 @@ h1 {font-size: 36px;
 
 .author {font-weight: 900;}
 
-.b-cont {background-color:#3882F6;}
+.b-cont {background-color:#3882F6;
+         width: 1000px;
+         height: 100px;}
