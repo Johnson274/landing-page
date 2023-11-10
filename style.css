@@ -80,4 +80,6 @@ h1 {font-size: 36px;
           justify-content: center;}
 
 .footer {background-color: #1F2937;
-         color: white;}
+         color: white;
+         display:flex;
+         justify-content: center;}
