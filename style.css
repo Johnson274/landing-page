@@ -78,3 +78,6 @@ h1 {font-size: 36px;
 
 .b2-cont {display: flex;
           justify-content: center;}
+
+.footer {background-color: #1F2937;
+         color: white;}
