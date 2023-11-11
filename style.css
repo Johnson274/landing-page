@@ -36,7 +36,8 @@ a {text-decoration: none;
 .bt-1{background-color: #3882F6;
       color: white;
       font-weight: bold;
-      border-radius: 8px;
+      border: solid #3882F6;
+      border-radius: 4px;
       width: 80px;} 
 
 .nav-bar {background-color: #1F2937;
