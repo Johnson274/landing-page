@@ -42,7 +42,7 @@ a {text-decoration: none;
 
 .nav-bar {background-color: #1F2937;
        display: flex;
-       justify-content: space-between;}
+       justify-content: space-around;}
 
 
 .hero-container {display: flex;
