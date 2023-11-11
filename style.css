@@ -60,7 +60,9 @@ a {text-decoration: none;
                   
 h1 {font-size: 36px;
     font-weight: 800;
-    color: #1F2937;} 
+    color: #1F2937;
+    margin-top: 20px;
+    margin-bottom: 20px;} 
 
     .gen-cont {display: flex;
                justify-content: space-evenly;}
