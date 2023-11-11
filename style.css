@@ -95,8 +95,12 @@ h1 {font-size: 36px;
 
  .bt-2 {background-color: #3882F6;
         color: white;
-       border: 1px solid white} 
-               
+       border: 1px solid white;
+       width: 80px;
+       border-radius: 4px;
+       margin-left: 300px;
+       font-weight: bold;} 
+
 .footer {background-color: #1F2937;
          color: white;
          display:flex;
