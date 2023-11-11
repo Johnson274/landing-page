@@ -85,7 +85,9 @@ h1 {font-size: 36px;
         display:flex;
         justify-content: center;}
 
-.author {font-weight: 900;}
+.author {font-weight: 900;
+         margin-top: 10px;
+         margin-left:  1088px;}
 
 .b-cont {background-color:#3882F6;
          width: 1000px;
