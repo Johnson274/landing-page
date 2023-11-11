@@ -35,7 +35,9 @@ a {text-decoration: none;
 
 .bt-1{background-color: #3882F6;
       color: white;
-      border-radius: 8px;} 
+      font-weight: bold;
+      border-radius: 8px;
+      width: 80px;} 
 
 .nav-bar {background-color: #1F2937;
        display: flex;
