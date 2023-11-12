@@ -68,11 +68,12 @@ h1 {font-size: 36px;
                justify-content: space-evenly;}
     
  .gen-image {display: flex;
-             height: 200px;
-             border: 5px solid #3882F6;
-             border-radius: 5px;}  
+             height: 200px;}  
     
- .gentxt-cont {display: flex;
+.border{border: 5px solid #3882F6;
+       border-radius: 5px;} 
+
+.gentxt-cont {display: flex;
                justify-content: space-evenly;}   
 
 .qa-cont{background-color: #E5E7EB;
