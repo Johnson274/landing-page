@@ -69,8 +69,10 @@ h1 {font-size: 36px;
     
  .gen-image {height: 200px;}  
     
-.border{border: 5px solid #3882F6;
-       border-radius: 5px;} 
+.gen-image2{border: 5px solid #3882F6;
+       border-radius: 5px;
+       width: 200px;
+       height: auto;} 
 
 .gentxt-cont {display: flex;
                justify-content: space-evenly;}   
