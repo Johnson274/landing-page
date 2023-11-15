@@ -67,7 +67,7 @@ h1 {font-size: 36px;
     .gen-cont {display: flex;
                justify-content: space-evenly;}
     
- .gen-iandt {height: 200px;}  
+ .gen-iandt {}  
     
 .gen-image{border: 5px solid #3882F6;
        border-radius: 5px;
