@@ -72,7 +72,7 @@ h1 {font-size: 36px;
 .gen-image{border: 5px solid #3882F6;
        border-radius: 5px;
        width: 200px;
-       height: auto;} 
+       height: 200px;} 
 
 .gentxt-cont {display: flex;
                justify-content: space-evenly;}   
